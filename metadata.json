@@ -1,0 +1,6 @@
+{
+  "name": "Aviator Crash Game & UPI Wallet",
+  "description": "Aviator crash game with real-time multiplier flight, dual betting controls, and complete deposit/withdrawal wallet management with 7667340425@fam UPI integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
